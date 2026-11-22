@@ -530,3 +530,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [nebula-memory-mcp](https://github.com/yb-zhai/agent-memory) - Zero-dependency local Agent memory MCP Server (stdio JSON-RPC). Works offline, no API keys, no database. Exposes remember/recall/stats/forget to Claude Desktop, Cursor, ChatGPT and any MCP client.
